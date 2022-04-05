@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ilightman
-- 👀 I’m interested in Cars, Programming, Games, Web
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: maximlightman at gmail
+I’m interested in Cars, Programming, Games, Web
+I’m currently learning Python
+How to reach me: maximlightman at gmail
 
 <!---
 ilightman/ilightman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
