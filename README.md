@@ -1,5 +1,5 @@
- - I’m interested in Cars, Programming, Games, Web
- - I’m currently learning Python, Django and some JS
+ - I’m interested in Programming, Games, Cars 
+ - I’m currently learning Python, Aiogram, FastApi, Django and some JS
  - How to reach me: maximlightman at gmail
 
 <!---
