@@ -1,5 +1,5 @@
  - I’m interested in Programming, Games, Caraudio, 3D modeling
- - I’m currently learning Python, Aiogram, 1C and making 3d models
+ - I’m currently learning Python, FastApi, VUE3/Nuxt3, and making 3d models
  - How to reach me: maximlightman at gmail
 
 <!---
