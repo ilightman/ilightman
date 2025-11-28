@@ -1,5 +1,5 @@
- - ❤️ Games, Caraudio, 3D modeling, Python, Nuxt
- - Currently creating local AI assistant for company (based on Ollama, with tools, RAG and other features).
+ - ❤️ Python, Nuxt, Games, Caraudio, 3D modeling, DIY.
+ - Currently creating local AI assistant for company (based on vLLM (tests via Ollama), with tools, RAG and other features).
  - **How to reach me**: maximlightman at gmail
 
 <!---
